@@ -5,6 +5,6 @@ document.getElementById("incrBtn").addEventListener("click", function() {
       document.getElementById("numDisplay").innerHTML = xhr.responseText;
     }
   };
-  xhr.open("POST", "numScript.php", true);
+  xhr.open("POST", "save.php", true);
   xhr.send();
 });
