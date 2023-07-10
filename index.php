@@ -1,3 +1,6 @@
+<?php
+$number = 0;
+?> 
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,6 +9,7 @@
     <meta name="description" content="click, click and click over and over again, and it will save.">
     <meta name="keywords" content="click,clicking,save,number,web,saving,saves,clicks,button,increment,increments">
     <meta name="author" content="LouieNotHere">
+    <script src="script.js"></script>
     <title>sum number clicking web.</title>
   </head>
   <body>
